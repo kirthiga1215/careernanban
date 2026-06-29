@@ -94,7 +94,7 @@ npm install
 npm run dev
 ```
 
-The app will be available at **http://localhost:5173**.
+The app will be available at **https://ai-learning-platform-amber-beta.vercel.app**.
 
 ### Build for Production
 
@@ -106,7 +106,7 @@ The built files will be in the `dist/` directory.
 
 ## 🌐 Live Demo
 
-Visit the live site at: **[http://localhost:5173](http://localhost:5173)**
+Visit the live site at: **https://ai-learning-platform-amber-beta.vercel.app**
 
 ## 🎨 Design
 
